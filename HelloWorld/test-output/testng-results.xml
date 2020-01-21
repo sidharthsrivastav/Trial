@@ -2,21 +2,21 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="45" started-at="2020-01-21T20:54:40Z" finished-at="2020-01-21T20:54:40Z">
+  <suite name="Suite" duration-ms="81" started-at="2020-01-21T20:58:36Z" finished-at="2020-01-21T20:58:36Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="45" started-at="2020-01-21T20:54:40Z" finished-at="2020-01-21T20:54:40Z">
+    <test name="Test" duration-ms="81" started-at="2020-01-21T20:58:36Z" finished-at="2020-01-21T20:58:36Z">
       <class name="TrialNG.TrialClass">
-        <test-method status="PASS" signature="f()[pri:0, instance:TrialNG.TrialClass@724af044]" name="f" duration-ms="3" started-at="2020-01-21T15:54:40Z" finished-at="2020-01-21T15:54:40Z">
+        <test-method status="PASS" signature="World()[pri:0, instance:TrialNG.TrialClass@724af044]" name="World" duration-ms="3" started-at="2020-01-21T15:58:36Z" finished-at="2020-01-21T15:58:36Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
+        </test-method> <!-- World -->
       </class> <!-- TrialNG.TrialClass -->
       <class name="TrialNG.TrialClass2">
-        <test-method status="PASS" signature="f()[pri:0, instance:TrialNG.TrialClass2@4f933fd1]" name="f" duration-ms="17" started-at="2020-01-21T15:54:40Z" finished-at="2020-01-21T15:54:40Z">
+        <test-method status="PASS" signature="Earth()[pri:0, instance:TrialNG.TrialClass2@4f933fd1]" name="Earth" duration-ms="50" started-at="2020-01-21T15:58:36Z" finished-at="2020-01-21T15:58:36Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
+        </test-method> <!-- Earth -->
       </class> <!-- TrialNG.TrialClass2 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

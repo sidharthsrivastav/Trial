@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class TrialClass {
   @Test
-  public void f() {
+  public void World() {
 	  System.out.println("Hello World");
   }
 }
